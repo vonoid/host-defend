@@ -1,1 +1,35 @@
-# host-defend
+# Домашнее задание к занятию  «Защита хоста» Заярченко И.Я.
+
+
+### Задание 1
+
+1. Установите **eCryptfs**.
+2. Добавьте пользователя cryptouser.
+3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
+
+   Ответ
+
+Устанавливаем eCryptfs, создаем пользователя cryptouser и шифруем домашний каталог:
+
+![1](https://github.com/vonoid/host-defend/blob/13e13334b1c98be381472ed2be49be371e9d75cb/31.jpg)
+
+![1](https://github.com/vonoid/host-defend/blob/13e13334b1c98be381472ed2be49be371e9d75cb/32.jpg)
+
+![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/12.jpg)
+
+![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/13.jpg)
+
+
+
+### Задание 2
+
+1. Установите поддержку **LUKS**.
+2. Создайте небольшой раздел, например, 100 Мб.
+3. Зашифруйте созданный раздел с помощью LUKS.
+
+   Ответ
+
+    ![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/21.jpg)
+    ![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/22.jpg)
+    ![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/23.jpg)
+    ![1](https://github.com/vonoid/host-defend/blob/c21a0de7f6f391fbf7baff9058f8b4bb4659e9ab/24.jpg)
